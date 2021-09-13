@@ -1,4 +1,4 @@
-# BIOresponse (RandomForest vs XGBoost) (rus)
+# BIOresponse Predictor (RandomForest vs XGBoost) (rus)
 
 According to these characteristics of the molecule, it is necessary to determine whether a biological response will be given.
 
